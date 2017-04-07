@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Spotless of Utah
+name: ' '
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -44,7 +44,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: ''
+title: 'Spotless of Utah '
 description: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/740ffe38-6bf5-430f-a7de-78e510157456.png
