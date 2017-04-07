@@ -29,9 +29,6 @@ navigation:
   - name: Services
     id: 6e0e684c-4734-4f5d-9bca-c5fec88361f7
     type: content
-  - name: Services
-    id: 96f2eeef-d97e-4c27-926e-b2703ffdd704
-    type: content
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
