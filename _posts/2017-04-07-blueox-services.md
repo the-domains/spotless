@@ -5,17 +5,18 @@ description: >-
   provider. A valued commercial cleaning service extends past the mop hitting
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
-dateModified: '2017-04-07T05:34:46.673Z'
-datePublished: '2017-04-07T05:34:47.864Z'
+dateModified: '2017-04-07T05:36:59.236Z'
+datePublished: '2017-04-07T05:37:01.175Z'
 title: BLUEOX SERVICES
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2017-04-07-blueox-services.md
 starred: false
 datePublishedOriginal: '2017-04-07T05:28:49.294Z'
-_type: Blurb
+url: blueox-services/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70e9b785-05e2-4db8-b95b-011d79bfef14.png)
