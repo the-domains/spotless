@@ -1,4 +1,3 @@
-layout_spectrum: 0.42908220320303764
 typography_spectrum: 0.9928043589693042
 color:
   brandStrength: 0.9773203313196687
@@ -11,6 +10,11 @@ color:
     - '#00FFFF'
     - '#0099CC'
     - '#00AAD5'
+github: true
+layout_spectrum: 0.42908220320303764
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/740ffe38-6bf5-430f-a7de-78e510157456.png
+name: ' '
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +22,11 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: ' '
+navigation:
+  - name: Contact us
+    id: d17956e0-f393-493b-b9b9-05a6e1398206
+    type: content
+title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,26 +36,23 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/d501fd19-a0df-4f2a-a73a-753d0dc3b5dc.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: ''
 description: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/740ffe38-6bf5-430f-a7de-78e510157456.png
 purpose:
   - type: contact
     url: 'tel:4358819189'
@@ -55,4 +60,3 @@ purpose:
   - type: email
     label: Email us
     url: 'mailto:info@spotlessofutah.com'
-github: true
