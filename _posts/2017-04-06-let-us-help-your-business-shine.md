@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We’d love the opportunity to tell you more about our services and provide you
   with a quote customized for your company’s needs. Reach out today!
-dateModified: '2017-04-07T04:01:15.815Z'
-datePublished: '2017-04-07T04:01:17.264Z'
+dateModified: '2017-04-07T04:02:53.723Z'
+datePublished: '2017-04-07T04:02:54.434Z'
 title: ''
 author: []
 publisher: {}
@@ -21,4 +21,4 @@ We'd love the opportunity to tell you more about our services and provide you wi
 
 <button data-role="cta" style="">Call us for quote</button>
 
-THE TIDY UPKEEP OF YOUR OFFICE REFLECTS ON YOUR BUSINESS. WE'LL MAKE IT SHINE.
+The TIDY UPKEEP of you office reflects on your business. WE'LL MAKE IT SHINE.
