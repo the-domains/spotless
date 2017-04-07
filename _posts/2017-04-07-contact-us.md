@@ -3,9 +3,10 @@ inFeed: false
 description: >-
   We’d love to hear from you! Reach out to learn more about our commercial
   janitorial services and what we could do to "wow" your company. We look
-  forward to discussing how 
-dateModified: '2017-04-07T04:38:29.674Z'
-datePublished: '2017-04-07T04:38:30.661Z'
+  forward to discussing how we can work together and will respond as soon as
+  possible.
+dateModified: '2017-04-07T04:38:34.325Z'
+datePublished: '2017-04-07T04:38:34.881Z'
 title: CONTACT US
 author: []
 publisher: {}
@@ -20,9 +21,7 @@ _type: MediaObject
 ---
 ## CONTACT US
 
-We'd love to hear from you! Reach out to learn more about our commercial janitorial services and what we could do to "wow" your company. We look forward to discussing how 
-
-we can work together and will respond as soon as possible.
+We'd love to hear from you! Reach out to learn more about our commercial janitorial services and what we could do to "wow" your company. We look forward to discussing how we can work together and will respond as soon as possible.
 
 CONTACT INFO
 
