@@ -5,16 +5,16 @@ description: >-
   provider. A valued commercial cleaning service extends past the mop hitting
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
-dateModified: '2017-04-07T05:28:47.902Z'
-datePublished: '2017-04-07T05:28:49.294Z'
+dateModified: '2017-04-07T05:29:42.372Z'
+datePublished: '2017-04-07T05:29:44.191Z'
 title: BLUEOX SERVICES
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-07-blueox-services.md
 starred: false
 datePublishedOriginal: '2017-04-07T05:28:49.294Z'
-sourcePath: _posts/2017-04-07-blueox-services.md
 url: blueox-services/index.html
 _type: Article
 
@@ -60,3 +60,11 @@ Blueox provides the flexibility you require without ever disrupting staff or int
 HIGH TECH
 
 We love techies! More importantly we know that your business depends on being the leader of you industry. Blueox will insure you can do that with a clean and efficient workspace.
+
+BANKING AND FINANCIAL SERVICES
+
+Our proven processes will insure that Blueox will maximize your dollars spent on facility cleaning services. From bank branches and financial firms to the home office, we understand that security is paramount. Our team is trained to comply with your security protocols and needs.
+
+GOVERNMENT
+
+Blueox's has experience in meeting the expectations of local, federal and state agencies. We know you demand comprehensive, reliable and cost effective service programs.
