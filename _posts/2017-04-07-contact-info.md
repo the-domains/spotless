@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   We’d love to hear from you! Reach out to learn more about our commercial
   janitorial services and what we could do to "wow" your company. We look
   forward to discussing how we can work together and will respond as soon as
   possible.
-dateModified: '2017-04-07T05:30:21.130Z'
-datePublished: '2017-04-07T05:30:21.352Z'
+dateModified: '2017-04-07T05:36:27.646Z'
+datePublished: '2017-04-07T05:36:28.182Z'
 title: CONTACT INFO
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ sourcePath: _posts/2017-04-07-contact-info.md
 starred: false
 datePublishedOriginal: '2017-04-07T05:08:32.544Z'
 url: contact-info/index.html
-_type: Article
+_type: Blurb
 
 ---
 We'd love to hear from you! Reach out to learn more about our commercial janitorial services and what we could do to "wow" your company. We look forward to discussing how we can work together and will respond as soon as possible.
