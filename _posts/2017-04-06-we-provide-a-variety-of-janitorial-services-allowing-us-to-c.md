@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: How Much?”
-dateModified: '2017-04-07T05:05:10.251Z'
-datePublished: '2017-04-07T05:05:11.544Z'
+dateModified: '2017-04-07T05:06:58.527Z'
+datePublished: '2017-04-07T05:06:59.370Z'
 title: FREQUENTLY ASKED QUESTIONS
 author: []
 publisher: {}
@@ -15,6 +15,8 @@ datePublishedOriginal: '2017-04-06T21:20:12.632Z'
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6357c909-744c-49ec-a83d-28779239b494.png)
+
 ## FREQUENTLY ASKED QUESTIONS
 
 **How Much?"**
