@@ -26,6 +26,9 @@ navigation:
   - name: Contact
     id: 6eeea062-7d76-472a-b5b3-e78b35f1081f
     type: content
+  - name: Services
+    id: 6e0e684c-4734-4f5d-9bca-c5fec88361f7
+    type: content
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
