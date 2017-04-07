@@ -3,16 +3,16 @@ inFeed: false
 description: >-
   From private FBOs to commercial terminals, Blueox is your source for quality
   and consistent facility care.
-dateModified: '2017-04-07T21:30:22.634Z'
-datePublished: '2017-04-07T21:30:23.550Z'
+dateModified: '2017-04-07T21:31:15.933Z'
+datePublished: '2017-04-07T21:31:16.762Z'
 title: SPOTLESS SERVES THESE INDUSTRIES
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-07-spotless-serves-these-industries.md
 starred: false
 datePublishedOriginal: '2017-04-07T21:30:23.550Z'
-sourcePath: _posts/2017-04-07-spotless-serves-these-industries.md
 url: spotless-serves-these-industries/index.html
 _type: Blurb
 
