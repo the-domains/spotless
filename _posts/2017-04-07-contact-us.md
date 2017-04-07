@@ -5,8 +5,8 @@ description: >-
   janitorial services and what we could do to "wow" your company. We look
   forward to discussing how we can work together and will respond as soon as
   possible.
-dateModified: '2017-04-07T04:40:41.328Z'
-datePublished: '2017-04-07T04:40:41.710Z'
+dateModified: '2017-04-07T04:53:23.240Z'
+datePublished: '2017-04-07T04:53:24.347Z'
 title: CONTACT US
 author: []
 publisher: {}
@@ -19,6 +19,8 @@ url: contact-us/index.html
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dea5587-975b-42d5-8486-989a59148ba1.png)
+
 ## CONTACT US
 
 We'd love to hear from you! Reach out to learn more about our commercial janitorial services and what we could do to "wow" your company. We look forward to discussing how we can work together and will respond as soon as possible.
