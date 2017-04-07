@@ -1,21 +1,20 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   At Blueox we work to understand your needs and wants in a cleaning service
   provider. A valued commercial cleaning service extends past the mop hitting
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
-dateModified: '2017-04-07T05:31:02.800Z'
-datePublished: '2017-04-07T05:31:03.477Z'
+dateModified: '2017-04-07T05:34:46.673Z'
+datePublished: '2017-04-07T05:34:47.864Z'
 title: BLUEOX SERVICES
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: _posts/2017-04-07-blueox-services.md
 starred: false
 datePublishedOriginal: '2017-04-07T05:28:49.294Z'
-url: blueox-services/index.html
 _type: Blurb
 
 ---
