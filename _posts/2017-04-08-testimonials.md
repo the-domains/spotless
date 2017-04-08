@@ -5,8 +5,8 @@ description: >-
   above and beyond your wildest expectations. We aim to WOW by providing our
   clients a professional janitorial experience that leaves offices cleaner and
   in better condition than when we arrived!
-dateModified: '2017-04-08T23:54:26.792Z'
-datePublished: '2017-04-08T23:54:27.000Z'
+dateModified: '2017-04-08T23:58:55.581Z'
+datePublished: '2017-04-08T23:58:56.218Z'
 title: TESTIMONIALS
 author: []
 publisher: {}
