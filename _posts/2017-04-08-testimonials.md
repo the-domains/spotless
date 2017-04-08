@@ -1,22 +1,22 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   The Blueox team works hard to perform commercial cleaning services that go
   above and beyond your wildest expectations. We aim to WOW by providing our
   clients a professional janitorial experience that leaves offices cleaner and
   in better condition than when we arrived!
-dateModified: '2017-04-08T19:40:50.107Z'
-datePublished: '2017-04-08T19:40:51.347Z'
+dateModified: '2017-04-08T19:41:07.568Z'
+datePublished: '2017-04-08T19:41:08.959Z'
 title: TESTIMONIALS
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-08-testimonials.md
 starred: false
 datePublishedOriginal: '2017-04-08T19:40:51.347Z'
-sourcePath: _posts/2017-04-08-testimonials.md
 url: testimonials/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## TESTIMONIALS
