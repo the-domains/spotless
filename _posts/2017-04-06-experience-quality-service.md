@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-08T21:58:31.609Z'
-datePublished: '2017-04-08T21:58:32.209Z'
+dateModified: '2017-04-08T21:58:32.850Z'
+datePublished: '2017-04-08T21:58:33.298Z'
 title: EXPERIENCE QUALITY SERVICE
 author: []
 publisher: {}
