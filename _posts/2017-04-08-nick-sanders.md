@@ -7,8 +7,8 @@ description: >-
   your questions and feedback. We track our time and work efficiently to make
   sure we effectively bring your company value - you get what you paid for, and
   more!
-dateModified: '2017-04-08T21:57:16.939Z'
-datePublished: '2017-04-08T21:57:17.053Z'
+dateModified: '2017-04-08T23:47:11.249Z'
+datePublished: '2017-04-08T23:47:11.428Z'
 title: ABOUT BLUEOX
 author: []
 publisher: {}
