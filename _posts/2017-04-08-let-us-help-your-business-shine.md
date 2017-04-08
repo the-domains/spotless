@@ -5,9 +5,9 @@ description: >-
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-04-08T21:57:17.055Z'
-dateModified: '2017-04-08T21:57:16.939Z'
-title: LET US HELP YOUR BUSINESS SHINE.
+datePublished: '2017-04-08T23:45:08.678Z'
+dateModified: '2017-04-08T23:45:07.503Z'
+title: BLUEOX SERVICES
 publisher: {}
 via: {}
 inFeed: true
@@ -34,10 +34,6 @@ With well-defined systems and a flexible workforce with local experience, our fa
 We consider ourselves craftsmen. "Painting the back of the fence" is engrained into our company culture. We guarantee our quality work by conducting regular inspections, detailed reporting, and monthly evaluations.
 
 We work closely with every one of our clients to customize plans and support for their needs.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/323c77c0-cd73-49b7-823f-07d8dc370d8f.png)
-
-## LET US HELP YOUR BUSINESS SHINE.
-
-We'd love the opportunity to tell you more about our services and provide you with a quote customized for your company's needs. Reach out today!
+![We’d love the opportunity to tell you more about our services and provide you with a quote customized for your company’s needs. Reach out today!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88806105-1802-40bc-b097-163bca5f670b.jpg)
 
 <button data-role="cta" style="">Get a quote</button>
