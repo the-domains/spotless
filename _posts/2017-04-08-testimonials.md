@@ -5,8 +5,8 @@ description: >-
   above and beyond your wildest expectations. We aim to WOW by providing our
   clients a professional janitorial experience that leaves offices cleaner and
   in better condition than when we arrived!
-dateModified: '2017-04-08T19:42:41.174Z'
-datePublished: '2017-04-08T19:42:41.817Z'
+dateModified: '2017-04-08T19:42:57.596Z'
+datePublished: '2017-04-08T19:42:58.027Z'
 title: TESTIMONIALS
 author: []
 publisher: {}
@@ -20,9 +20,7 @@ _type: Blurb
 
 ---
 ## TESTIMONIALS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7f2cce6-4193-4711-ab08-43b2bea4b6fa.jpg)
-
-The Blueox team works hard to perform commercial cleaning services that go above and beyond your wildest expectations. We aim to WOW by providing our clients a professional janitorial experience that leaves offices cleaner and in better condition than when we arrived!
+![The Blueox team works hard to perform commercial cleaning services that go above and beyond your wildest expectations. We aim to WOW by providing our clients a professional janitorial experience that leaves offices cleaner and in better condition than when we arrived!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7f2cce6-4193-4711-ab08-43b2bea4b6fa.jpg)
 ![KIM KUNZ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa4f28b-d1ed-417e-9256-1336c327f63a.png)
 
 > Just wanted to drop a line and say that the building looked awesome, great job on the cleaning. The floors looked great and it smelled clean. Something we have never had. Great job and thanks
