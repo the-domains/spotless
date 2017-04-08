@@ -5,8 +5,8 @@ description: >-
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-04-08T19:32:40.228Z'
-dateModified: '2017-04-08T19:32:39.437Z'
+datePublished: '2017-04-08T19:46:52.425Z'
+dateModified: '2017-04-08T19:46:51.571Z'
 title: LET US HELP YOUR BUSINESS SHINE.
 publisher: {}
 via: {}
@@ -25,14 +25,17 @@ _type: Article
 ### BLUEOX SERVICES
 
 At Blueox we work to understand your needs and wants in a cleaning service provider. A valued commercial cleaning service extends past the mop hitting the floor. It takes exceptional people, a concern for the environment, and a passion for new technologies to bring our cleaning to a new level.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ad8b658-50b1-41f5-a424-1b0742d268f7.png)
 
 Blueox cleans everything from offices and hospitals to government buildings and schools. We are where you are. We specialize in customized cleaning systems across health, industrial, and tech environments.
 
 With well-defined systems and a flexible workforce with local experience, our family of clients rely on us everyday to get the job done!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07859620-1171-43ef-99f0-d627fa15f074.png)
 
 We consider ourselves craftsmen. "Painting the back of the fence" is engrained into our company culture. We guarantee our quality work by conducting regular inspections, detailed reporting, and monthly evaluations.
 
 We work closely with every one of our clients to customize plans and support for their needs.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/323c77c0-cd73-49b7-823f-07d8dc370d8f.png)
 
 ## LET US HELP YOUR BUSINESS SHINE.
 
