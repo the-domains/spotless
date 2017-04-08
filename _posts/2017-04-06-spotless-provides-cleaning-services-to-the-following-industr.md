@@ -1,17 +1,19 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-07T04:01:01.332Z'
-datePublished: '2017-04-07T04:01:01.841Z'
+dateModified: '2017-04-08T19:18:31.851Z'
+datePublished: '2017-04-08T19:18:32.526Z'
 title: 'SPOTLESS PROVIDES CLEANING SERVICES TO THE FOLLOWING INDUSTRIES:'
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-04-06-spotless-provides-cleaning-services-to-the-following-industr.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-06T20:44:25.050Z'
-_type: Blurb
+url: spotless-provides-cleaning-services-to-the-following-industr/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0005edd-b026-4390-92f5-da17b93d8c2d.png)
