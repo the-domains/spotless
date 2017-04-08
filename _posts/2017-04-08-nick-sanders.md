@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   When I started Spotless of Utah, now Blueox, in 2006, I simply had dreams of
   paying off my student loan debt. While my company helped that cause, my dreams
@@ -8,17 +8,16 @@ description: >-
   experiences for clients nationwide. Through partnering with clients and
   communities, I’m working to build a company that people respect and love,
   whether they’re working with us as clients or for us as employees.
-dateModified: '2017-04-08T19:37:10.840Z'
-datePublished: '2017-04-08T19:37:11.218Z'
+dateModified: '2017-04-08T19:52:18.207Z'
+datePublished: '2017-04-08T19:52:18.959Z'
 title: NICK SANDERS | PRESIDENT
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-08-nick-sanders.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-04-08T19:34:23.810Z'
-url: nick-sanders-or-president/index.html
 _type: Blurb
 
 ---
@@ -28,6 +27,6 @@ _type: Blurb
 
 When I started Spotless of Utah, now Blueox, in 2006, I simply had dreams of paying off my student loan debt. While my company helped that cause, my dreams have evolved tremendously. As president of Blueox, I've become driven to build a company that provides the best janitorial services and customer service experiences for clients nationwide. Through partnering with clients and communities, I'm working to build a company that people respect and love, whether they're working with us as clients or for us as employees.
 ![“I have worked in the cleaning industry for many years, and I know Blueox is the right company for me to align my future with. As a veteran of the graveyard shift, I enjoy being able to perform a detailed job that other people notice the following day. It makes me feel good about what I do!”
-LEO CHAVEZ
-Blueox Quality Assurance Coordinator](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afc4a4fa-8868-4385-967c-e72013ea724d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e7cf24-db12-4626-9e03-09b544b8abfc.jpg)
+
+](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afc4a4fa-8868-4385-967c-e72013ea724d.jpg)
+![“Working for Blueox is perfect for me because of the flexible evening hours. I also welcome the break it gives me from my studies. The Blueox management team is always willing to help me solve problems, even at very late hours of the night, which makes my job easier and less stressful so that I can focus on ensuring my client's needs are met.”](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e7cf24-db12-4626-9e03-09b544b8abfc.jpg)
