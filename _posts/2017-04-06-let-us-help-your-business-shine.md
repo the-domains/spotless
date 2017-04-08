@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: The TIDY UPKEEP of you office reflects on your business. WE'LL MAKE IT SHINE.
-dateModified: '2017-04-08T21:24:57.530Z'
-datePublished: '2017-04-08T21:24:58.164Z'
+dateModified: '2017-04-08T21:25:14.683Z'
+datePublished: '2017-04-08T21:25:15.091Z'
 title: ''
 author: []
 publisher: {}
@@ -20,5 +20,3 @@ The TIDY UPKEEP of you office reflects on your business. WE'LL MAKE IT SHINE.
 We'd love the opportunity to tell you more about our services and provide you with a quote customized for your company's needs. Reach out today!
 
 <button data-role="cta" style="">Call us for quote</button>
-
-The TIDY UPKEEP of you office reflects on your business. WE'LL MAKE IT SHINE.
