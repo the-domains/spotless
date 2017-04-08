@@ -23,9 +23,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: services
-    id: ab61e962-cf4e-4b30-974c-71be3ce9d37d
-    type: content
   - name: '? asked often'
     id: ad1b76d7-73e0-44fa-b230-260685184599
     type: content
