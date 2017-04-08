@@ -32,6 +32,9 @@ navigation:
   - name: about us
     id: a1a3b86e-7cb1-4e3a-b9c3-34167f15544e
     type: content
+  - name: testimonials
+    id: 8e155513-1177-48c9-9f4e-b4210560ffec
+    type: content
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
