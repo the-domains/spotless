@@ -1,18 +1,17 @@
 ---
-inFeed: false
+inFeed: true
 description: How Much?”
-dateModified: '2017-04-08T19:33:48.500Z'
-datePublished: '2017-04-08T19:33:48.895Z'
+dateModified: '2017-04-08T19:49:42.041Z'
+datePublished: '2017-04-08T19:49:42.879Z'
 title: FREQUENTLY ASKED QUESTIONS
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: >-
   _posts/2017-04-06-we-provide-a-variety-of-janitorial-services-allowing-us-to-c.md
 starred: false
 datePublishedOriginal: '2017-04-08T19:33:05.507Z'
-url: frequently-asked-questions/index.html
 _type: Blurb
 
 ---
