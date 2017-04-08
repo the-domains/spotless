@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: ''
-dateModified: '2017-04-08T19:45:16.637Z'
-datePublished: '2017-04-08T19:45:17.657Z'
+dateModified: '2017-04-08T19:49:52.152Z'
+datePublished: '2017-04-08T19:49:52.703Z'
 title: TESTIMONIALS
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2017-04-08-testimonials.md
 starred: false
 datePublishedOriginal: '2017-04-08T19:40:51.347Z'
 url: testimonials/index.html
-_type: Blurb
+_type: Article
 
 ---
 ## TESTIMONIALS
