@@ -1,9 +1,16 @@
 ---
-inFeed: true
-description: PRESIDENT
-dateModified: '2017-04-08T19:36:13.820Z'
-datePublished: '2017-04-08T19:36:14.323Z'
-title: NICK SANDERS
+inFeed: false
+description: >-
+  When I started Spotless of Utah, now Blueox, in 2006, I simply had dreams of
+  paying off my student loan debt. While my company helped that cause, my dreams
+  have evolved tremendously. As president of Blueox, I’ve become driven to build
+  a company that provides the best janitorial services and customer service
+  experiences for clients nationwide. Through partnering with clients and
+  communities, I’m working to build a company that people respect and love,
+  whether they’re working with us as clients or for us as employees.
+dateModified: '2017-04-08T19:36:52.348Z'
+datePublished: '2017-04-08T19:36:53.103Z'
+title: NICK SANDERS | PRESIDENT
 author: []
 publisher: {}
 via: {}
@@ -12,14 +19,12 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-08T19:34:23.810Z'
 url: nick-sanders-or-president/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8290b03-d7cd-4f91-b794-fca508c789f4.png)
 
-## NICK SANDERS
-
-PRESIDENT
+## NICK SANDERS | PRESIDENT
 
 When I started Spotless of Utah, now Blueox, in 2006, I simply had dreams of paying off my student loan debt. While my company helped that cause, my dreams have evolved tremendously. As president of Blueox, I've become driven to build a company that provides the best janitorial services and customer service experiences for clients nationwide. Through partnering with clients and communities, I'm working to build a company that people respect and love, whether they're working with us as clients or for us as employees.
 ![“I have worked in the cleaning industry for many years, and I know Blueox is the right company for me to align my future with. As a veteran of the graveyard shift, I enjoy being able to perform a detailed job that other people notice the following day. It makes me feel good about what I do!”
