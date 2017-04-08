@@ -5,8 +5,8 @@ description: >-
   provider. A valued commercial cleaning service extends past the mop hitting
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
-dateModified: '2017-04-08T19:21:55.710Z'
-datePublished: '2017-04-08T19:21:56.144Z'
+dateModified: '2017-04-08T19:21:54.527Z'
+datePublished: '2017-04-08T19:21:55.318Z'
 title: 'SPOTLESS PROVIDES CLEANING SERVICES TO THE FOLLOWING INDUSTRIES:'
 author: []
 publisher: {}
