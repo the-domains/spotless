@@ -5,8 +5,8 @@ description: >-
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-04-08T23:47:28.985Z'
-dateModified: '2017-04-08T23:47:28.876Z'
+datePublished: '2017-04-08T23:51:38.370Z'
+dateModified: '2017-04-08T23:51:38.018Z'
 title: BLUEOX SERVICES
 publisher: {}
 via: {}
