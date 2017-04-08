@@ -5,15 +5,17 @@ description: >-
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-04-08T19:31:34.479Z'
-dateModified: '2017-04-08T19:31:33.634Z'
+datePublished: '2017-04-08T19:32:14.804Z'
+dateModified: '2017-04-08T19:32:14.003Z'
 title: LET US HELP YOUR BUSINESS SHINE.
 publisher: {}
 via: {}
-inFeed: true
+inFeed: false
+sourcePath: _posts/2017-04-08-let-us-help-your-business-shine.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-08T19:31:34.479Z'
-sourcePath: _posts/2017-04-08-let-us-help-your-business-shine.md
+url: let-us-help-your-business-shine/index.html
 _context: 'http://schema.org'
 _type: Article
 
@@ -28,7 +30,7 @@ Blueox cleans everything from offices and hospitals to government buildings and 
 
 With well-defined systems and a flexible workforce with local experience, our family of clients rely on us everyday to get the job done!
 
-We consider ourselves craftsmen. "Painting the back of the fence" is engrained into our company culture. We guarantee our quality work by conducting regular inspections, detailed reporting, and monthly evaluations. 
+We consider ourselves craftsmen. "Painting the back of the fence" is engrained into our company culture. We guarantee our quality work by conducting regular inspections, detailed reporting, and monthly evaluations.
 
 We work closely with every one of our clients to customize plans and support for their needs.
 
