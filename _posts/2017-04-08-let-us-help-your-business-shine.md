@@ -5,17 +5,16 @@ description: >-
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-04-08T19:46:52.425Z'
-dateModified: '2017-04-08T19:46:51.571Z'
+datePublished: '2017-04-08T19:52:31.575Z'
+dateModified: '2017-04-08T19:52:30.771Z'
 title: LET US HELP YOUR BUSINESS SHINE.
 publisher: {}
 via: {}
-inFeed: false
+inFeed: true
 sourcePath: _posts/2017-04-08-let-us-help-your-business-shine.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-04-08T19:31:34.479Z'
-url: let-us-help-your-business-shine/index.html
 _context: 'http://schema.org'
 _type: Article
 
