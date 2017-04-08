@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  We’d love the opportunity to tell you more about our services and provide you
-  with a quote customized for your company’s needs. Reach out today!
-dateModified: '2017-04-07T04:02:53.723Z'
-datePublished: '2017-04-07T04:02:54.434Z'
+description: The TIDY UPKEEP of you office reflects on your business. WE'LL MAKE IT SHINE.
+dateModified: '2017-04-08T21:24:57.530Z'
+datePublished: '2017-04-08T21:24:58.164Z'
 title: ''
 author: []
 publisher: {}
@@ -16,6 +14,8 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bb9f7fb-19ad-45cf-b5d1-1f4b69e4025f.png)
+
+The TIDY UPKEEP of you office reflects on your business. WE'LL MAKE IT SHINE.
 
 We'd love the opportunity to tell you more about our services and provide you with a quote customized for your company's needs. Reach out today!
 
