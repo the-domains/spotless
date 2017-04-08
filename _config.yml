@@ -22,6 +22,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: services
+    id: ab61e962-cf4e-4b30-974c-71be3ce9d37d
+    type: content
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
