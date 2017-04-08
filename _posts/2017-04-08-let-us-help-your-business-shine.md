@@ -1,13 +1,13 @@
 ---
 description: >-
-  At Blueox we work to understand your needs and wants in a cleaning service
+  At Spotless we work to understand your needs and wants in a cleaning service
   provider. A valued commercial cleaning service extends past the mop hitting
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-04-08T23:53:25.510Z'
-dateModified: '2017-04-08T23:53:24.874Z'
-title: BLUEOX SERVICES
+datePublished: '2017-04-08T23:58:25.885Z'
+dateModified: '2017-04-08T23:58:25.236Z'
+title: SPOLTESS OF UTAH CLEANING SERVICES
 publisher: {}
 via: {}
 inFeed: true
@@ -19,12 +19,12 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0af5952-3822-40eb-b420-f7798c2a0e04.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b16b139-ecb4-455d-8ac2-22bfaae433a1.png)
 
-### BLUEOX SERVICES
+### SPOLTESS OF UTAH CLEANING SERVICES
 
-At Blueox we work to understand your needs and wants in a cleaning service provider. A valued commercial cleaning service extends past the mop hitting the floor. It takes exceptional people, a concern for the environment, and a passion for new technologies to bring our cleaning to a new level.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ad8b658-50b1-41f5-a424-1b0742d268f7.png)
+At Spotless we work to understand your needs and wants in a cleaning service provider. A valued commercial cleaning service extends past the mop hitting the floor. It takes exceptional people, a concern for the environment, and a passion for new technologies to bring our cleaning to a new level.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3459da01-5951-491b-bd51-b0eaa0efee99.jpg)
 
 Blueox cleans everything from offices and hospitals to government buildings and schools. We are where you are. We specialize in customized cleaning systems across health, industrial, and tech environments.
 
