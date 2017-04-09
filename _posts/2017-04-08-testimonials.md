@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: TESTIMONIALS
-dateModified: '2017-04-09T02:30:19.435Z'
-datePublished: '2017-04-09T02:30:20.118Z'
+dateModified: '2017-04-09T02:31:52.678Z'
+datePublished: '2017-04-09T02:31:54.982Z'
 title: ''
 author: []
 publisher: {}
