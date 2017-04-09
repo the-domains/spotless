@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-09T00:07:51.807Z'
-datePublished: '2017-04-09T00:07:52.380Z'
+dateModified: '2017-04-09T00:10:15.626Z'
+datePublished: '2017-04-09T00:10:16.132Z'
 title: 'SPOTLESS PROVIDES CLEANING SERVICES TO THE FOLLOWING INDUSTRIES:'
 author: []
 publisher: {}
@@ -31,7 +31,7 @@ _type: Blurb
 * MANUFACTURING OFFICES
 * REAL ESTATE
 
-## **What Sets Us Apart?**
+### What Sets Us Apart?
 
 * Leading expertise, accountable service
 * Full range of cleaning services
