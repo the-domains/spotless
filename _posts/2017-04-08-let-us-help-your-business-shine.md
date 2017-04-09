@@ -5,8 +5,8 @@ description: >-
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-04-09T19:31:49.321Z'
-dateModified: '2017-04-09T19:31:47.355Z'
+datePublished: '2017-04-09T19:32:54.668Z'
+dateModified: '2017-04-09T19:32:53.446Z'
 title: SPOLTESS OF UTAH CLEANING SERVICES
 publisher: {}
 via: {}
@@ -28,10 +28,5 @@ At Spotless we work to understand your needs and wants in a cleaning service pro
 Spotless cleans everything from offices and hospitals to government buildings and schools. We specialize in customized cleaning systems with well-defined systems and a flexible workforce with local experience, our family of clients rely on us everyday to get the job done! We guarantee our quality work by conducting regular inspections, detailed reporting, and monthly evaluations.
 
 We work closely with every one of our clients to customize plans and support for their needs.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88806105-1802-40bc-b097-163bca5f670b.jpg)
-
-LET US HELP YOUR BUSINESS SHINE.
-
-We'd love the opportunity to tell you more about our services and provide you with a quote customized for your company's needs. Reach out today!
 
 <button data-role="cta" style="">Get a quote</button>
