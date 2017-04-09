@@ -5,8 +5,8 @@ description: >-
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-04-09T04:04:24.319Z'
-dateModified: '2017-04-09T04:04:23.399Z'
+datePublished: '2017-04-09T04:10:04.881Z'
+dateModified: '2017-04-09T04:10:03.155Z'
 title: SPOLTESS OF UTAH CLEANING SERVICES
 publisher: {}
 via: {}
@@ -34,10 +34,10 @@ With well-defined systems and a flexible workforce with local experience, our fa
 We consider ourselves craftsmen. "Painting the back of the fence" is engrained into our company culture. We guarantee our quality work by conducting regular inspections, detailed reporting, and monthly evaluations.
 
 We work closely with every one of our clients to customize plans and support for their needs.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88806105-1802-40bc-b097-163bca5f670b.jpg)
 
 LET US HELP YOUR BUSINESS SHINE.
 
 We'd love the opportunity to tell you more about our services and provide you with a quote customized for your company's needs. Reach out today!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88806105-1802-40bc-b097-163bca5f670b.jpg)
 
 <button data-role="cta" style="">Get a quote</button>
