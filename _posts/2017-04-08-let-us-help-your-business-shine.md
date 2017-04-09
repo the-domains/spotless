@@ -5,8 +5,8 @@ description: >-
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-04-09T04:10:05.455Z'
-dateModified: '2017-04-09T04:10:04.714Z'
+datePublished: '2017-04-09T04:12:31.158Z'
+dateModified: '2017-04-09T04:12:30.205Z'
 title: SPOLTESS OF UTAH CLEANING SERVICES
 publisher: {}
 via: {}
@@ -24,12 +24,11 @@ _type: Article
 ### SPOLTESS OF UTAH CLEANING SERVICES
 
 At Spotless we work to understand your needs and wants in a cleaning service provider. A valued commercial cleaning service extends past the mop hitting the floor. It takes exceptional people, a concern for the environment, and a passion for new technologies to bring our cleaning to a new level.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3459da01-5951-491b-bd51-b0eaa0efee99.jpg)
 
 Blueox cleans everything from offices and hospitals to government buildings and schools. We are where you are. We specialize in customized cleaning systems across health, industrial, and tech environments.
 
 With well-defined systems and a flexible workforce with local experience, our family of clients rely on us everyday to get the job done!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07859620-1171-43ef-99f0-d627fa15f074.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3459da01-5951-491b-bd51-b0eaa0efee99.jpg)
 
 We consider ourselves craftsmen. "Painting the back of the fence" is engrained into our company culture. We guarantee our quality work by conducting regular inspections, detailed reporting, and monthly evaluations.
 
