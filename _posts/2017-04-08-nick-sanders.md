@@ -8,8 +8,8 @@ description: >-
   experiences for clients nationwide. Through partnering with clients and
   communities, I’m working to build a company that people respect and love,
   whether they’re working with us as clients or for us as employees.
-dateModified: '2017-04-09T03:42:07.542Z'
-datePublished: '2017-04-09T03:42:08.696Z'
+dateModified: '2017-04-09T03:42:40.028Z'
+datePublished: '2017-04-09T03:42:40.942Z'
 title: ABOUT BLUEOX
 author: []
 publisher: {}
