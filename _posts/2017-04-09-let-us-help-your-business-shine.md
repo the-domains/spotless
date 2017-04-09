@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: LET US HELP YOUR BUSINESS SHINE.
-dateModified: '2017-04-09T19:34:21.247Z'
-datePublished: '2017-04-09T19:34:22.048Z'
+dateModified: '2017-04-09T19:34:42.205Z'
+datePublished: '2017-04-09T19:34:42.699Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-09-let-us-help-your-business-shine.md
 starred: false
 datePublishedOriginal: '2017-04-09T19:34:22.048Z'
-sourcePath: _posts/2017-04-09-let-us-help-your-business-shine.md
 _type: Blurb
 
 ---
