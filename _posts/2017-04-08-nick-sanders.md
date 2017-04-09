@@ -7,18 +7,17 @@ description: >-
   your questions and feedback. We track our time and work efficiently to make
   sure we effectively bring your company value - you get what you paid for, and
   more!
-dateModified: '2017-04-09T01:44:01.077Z'
-datePublished: '2017-04-09T01:44:01.881Z'
+dateModified: '2017-04-09T02:03:45.637Z'
+datePublished: '2017-04-09T02:03:46.781Z'
 title: ABOUT BLUEOX
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-08-nick-sanders.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-04-08T19:34:23.810Z'
-url: about-blueox/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## ABOUT BLUEOX
