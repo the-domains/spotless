@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-09T03:52:50.219Z'
-datePublished: '2017-04-09T03:52:50.633Z'
+dateModified: '2017-04-09T03:57:15.801Z'
+datePublished: '2017-04-09T03:57:16.119Z'
 title: TRUST THE SPOTLESS TEAM
 author: []
 publisher: {}
