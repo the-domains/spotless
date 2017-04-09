@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-04-09T00:05:43.588Z'
-datePublished: '2017-04-09T00:05:44.204Z'
+description: What Sets Us Apart?
+dateModified: '2017-04-09T00:07:31.253Z'
+datePublished: '2017-04-09T00:07:31.835Z'
 title: 'SPOTLESS PROVIDES CLEANING SERVICES TO THE FOLLOWING INDUSTRIES:'
 author: []
 publisher: {}
@@ -29,11 +29,15 @@ _type: Blurb
 * HIGH TECH
 * MEDICAL OFFICES
 * MANUFACTURING OFFICES
-* REAL ESTATE**What Sets Us Apart?**
-  * Leading expertise, accountable service
-  * Full range of cleaning services
-  * Innovative and industry leaders
-  * Experience serving Utah business for 15+ years 
-  * More efficient cleaning approaches
-  * Stringent hiring & selection process - You will LOVE our people!
-  * Powerful technology tools
+* REAL ESTATE
+
+**What Sets Us Apart?**
+
+* Leading expertise, accountable service
+* Full range of cleaning services
+* Innovative and industry leaders
+* Experience serving Utah business for 15+ years
+
+* More efficient cleaning approaches
+* Stringent hiring & selection process - You will LOVE our people!
+* Powerful technology tools
