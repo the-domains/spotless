@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: TESTIMONIALS
-dateModified: '2017-04-09T02:30:11.159Z'
-datePublished: '2017-04-09T02:30:11.956Z'
+dateModified: '2017-04-09T02:30:19.435Z'
+datePublished: '2017-04-09T02:30:20.118Z'
 title: ''
 author: []
 publisher: {}
@@ -14,8 +14,9 @@ datePublishedOriginal: '2017-04-08T19:40:51.347Z'
 _type: Blurb
 
 ---
-TESTIMONIALS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7f2cce6-4193-4711-ab08-43b2bea4b6fa.jpg)
+
+TESTIMONIALS
 
 The Blueox team works hard to perform commercial cleaning services that go above and beyond your wildest expectations. We aim to WOW by providing our clients a professional janitorial experience that leaves offices cleaner and in better condition than when we arrived!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa4f28b-d1ed-417e-9256-1336c327f63a.png)
