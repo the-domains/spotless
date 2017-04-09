@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-09T19:00:04.921Z'
-datePublished: '2017-04-09T19:00:05.543Z'
+dateModified: '2017-04-09T19:34:42.205Z'
+datePublished: '2017-04-09T19:34:42.689Z'
 title: 100% HAPPINESS GUARANTEED
 author: []
 publisher: {}
