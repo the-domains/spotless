@@ -1,8 +1,15 @@
 ---
 inFeed: true
-description: NICK SANDERS | PRESIDENT
-dateModified: '2017-04-09T04:04:23.399Z'
-datePublished: '2017-04-09T04:04:24.324Z'
+description: >-
+  When I started Spotless of Utah, now Blueox, in 2006, I simply had dreams of
+  paying off my student loan debt. While my company helped that cause, my dreams
+  have evolved tremendously. As president of Blueox, I’ve become driven to build
+  a company that provides the best janitorial services and customer service
+  experiences for clients nationwide. Through partnering with clients and
+  communities, I’m working to build a company that people respect and love,
+  whether they’re working with us as clients or for us as employees.
+dateModified: '2017-04-09T04:06:56.930Z'
+datePublished: '2017-04-09T04:06:57.996Z'
 title: ABOUT BLUEOX
 author: []
 publisher: {}
@@ -17,18 +24,6 @@ _type: Blurb
 # ABOUT BLUEOX
 
 ### Our company is built on a passion for customer service. Our focus is your bottom line. You can trust our team to deliver on what we promise. We encourage open communication, being accountable for our work and responsive to your questions and feedback. We track our time and work efficiently to make sure we effectively bring your company value - you get what you paid for, and more!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8290b03-d7cd-4f91-b794-fca508c789f4.png)
-
-NICK SANDERS | PRESIDENT
-
-When I started Spotless of Utah, now Blueox, in 2006, I simply had dreams of paying off my student loan debt. While my company helped that cause, my dreams have evolved tremendously. As president of Blueox, I've become driven to build a company that provides the best janitorial services and customer service experiences for clients nationwide. Through partnering with clients and communities, I'm working to build a company that people respect and love, whether they're working with us as clients or for us as employees.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f076a2b9-92f3-4756-9300-de7152d2d9f2.png)
-
-MELINDA GARREN | QUALITY ASSURANCE COORDINATOR
-
-Melinda has been a part of Blueox for over 3 years. Her consistent dedication to the Blueox Standard and her team of cleanSPECIALISTS is unwavering. Melinda understands the "Psychology of Clean" and never hesitates to tackle the most challenging of tasks.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e7cf24-db12-4626-9e03-09b544b8abfc.jpg)
-
-HALEY HILLSTEAD | cleanSPECIALIST
-
-"Working for Blueox is perfect for me because of the flexible evening hours. I also welcome the break it gives me from my studies. The Blueox management team is always willing to help me solve problems, even at very late hours of the night, which makes my job easier and less stressful so that I can focus on ensuring my client's needs are met."
+![When I started Spotless of Utah, now Blueox, in 2006, I simply had dreams of paying off my student loan debt. While my company helped that cause, my dreams have evolved tremendously. As president of Blueox, I’ve become driven to build a company that provides the best janitorial services and customer service experiences for clients nationwide. Through partnering with clients and communities, I’m working to build a company that people respect and love, whether they’re working with us as clients or for us as employees.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8290b03-d7cd-4f91-b794-fca508c789f4.png)
+![Melinda has been a part of Blueox for over 3 years. Her consistent dedication to the Blueox Standard and her team of cleanSPECIALISTS is unwavering. Melinda understands the "Psychology of Clean" and never hesitates to tackle the most challenging of tasks.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f076a2b9-92f3-4756-9300-de7152d2d9f2.png)
+![“Working for Blueox is perfect for me because of the flexible evening hours. I also welcome the break it gives me from my studies. The Blueox management team is always willing to help me solve problems, even at very late hours of the night, which makes my job easier and less stressful so that I can focus on ensuring my client's needs are met.”](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e7cf24-db12-4626-9e03-09b544b8abfc.jpg)
