@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-09T04:16:03.459Z'
-datePublished: '2017-04-09T04:16:04.169Z'
+dateModified: '2017-04-09T04:19:02.699Z'
+datePublished: '2017-04-09T04:19:03.442Z'
 title: What Sets Us Apart?
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ _type: Blurb
 ---
 # What Sets Us Apart?
 
-* Leading expertise, accountable service
+* Leading cleaning expertise, accountable service
 * Full range of cleaning services
 * Innovative and industry leaders
 * Experience serving Utah business for 15+ years
