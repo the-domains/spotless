@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: NICK SANDERS | PRESIDENT
-dateModified: '2017-04-09T04:04:08.609Z'
-datePublished: '2017-04-09T04:04:09.840Z'
+dateModified: '2017-04-09T04:04:23.399Z'
+datePublished: '2017-04-09T04:04:24.324Z'
 title: ABOUT BLUEOX
 author: []
 publisher: {}
