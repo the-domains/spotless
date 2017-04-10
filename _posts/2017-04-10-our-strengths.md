@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-10T02:51:31.561Z'
-datePublished: '2017-04-10T02:51:31.977Z'
+dateModified: '2017-04-10T02:52:32.981Z'
+datePublished: '2017-04-10T02:52:33.325Z'
 title: Our Strengths
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-10-our-strengths.md
-datePublishedOriginal: '2017-04-10T02:51:31.977Z'
 starred: false
+datePublishedOriginal: '2017-04-10T02:51:31.977Z'
 _type: Blurb
 
 ---
