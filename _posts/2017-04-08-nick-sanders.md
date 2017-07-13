@@ -8,8 +8,8 @@ description: >-
   for clients nationwide. Through partnering with clients and communities, I’m
   working to build a company that people respect and love, whether they’re
   working with us as clients or for us as employees.
-dateModified: '2017-07-13T22:37:17.246Z'
-datePublished: '2017-07-13T22:37:18.028Z'
+dateModified: '2017-07-13T22:39:23.672Z'
+datePublished: '2017-07-13T22:39:23.791Z'
 title: ABOUT SPOTLESS
 author: []
 publisher: {}
