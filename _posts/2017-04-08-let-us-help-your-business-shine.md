@@ -5,8 +5,8 @@ description: >-
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-07-13T22:37:18.006Z'
-dateModified: '2017-07-13T22:37:17.246Z'
+datePublished: '2017-07-13T22:39:23.797Z'
+dateModified: '2017-07-13T22:39:23.672Z'
 title: SPOLTESS OF UTAH CLEANING SERVICES
 publisher: {}
 via: {}
