@@ -5,8 +5,8 @@ description: >-
   janitorial services and what we could do to "wow" your company. We look
   forward to discussing how we can work together and will respond as soon as
   possible.
-dateModified: '2017-07-13T22:42:13.426Z'
-datePublished: '2017-07-13T22:42:14.787Z'
+dateModified: '2017-07-13T22:47:07.589Z'
+datePublished: '2017-07-13T22:47:08.385Z'
 title: CONTACT US
 author: []
 publisher: {}
@@ -21,11 +21,11 @@ _type: Blurb
 ## CONTACT US
 
 We'd love to hear from you! Reach out to learn more about our commercial janitorial services and what we could do to "wow" your company. We look forward to discussing how we can work together and will respond as soon as possible.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf8c1957-e8e5-42dd-b7ce-ff40e0404edd.png)
 
 The TIDY UPKEEP of you office reflects on your business. WE'LL MAKE IT SHINE.
 
 We'd love the opportunity to tell you more about our services and provide you with a quote customized for your company's needs. Reach out today!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf8c1957-e8e5-42dd-b7ce-ff40e0404edd.png)
 
 ### CONTACT INFO
 
