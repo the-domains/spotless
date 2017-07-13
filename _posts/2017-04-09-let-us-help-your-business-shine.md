@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: LET US HELP YOUR BUSINESS SHINE.
-dateModified: '2017-04-10T03:26:10.900Z'
-datePublished: '2017-04-10T03:26:12.968Z'
+dateModified: '2017-07-13T22:37:17.246Z'
+datePublished: '2017-07-13T22:37:18.041Z'
 title: ''
 author: []
 publisher: {}
@@ -19,4 +19,4 @@ LET US HELP YOUR BUSINESS SHINE.
 
 We'd love the opportunity to tell you more about our services and provide you with a quote customized for your company's needs. Reach out today!
 
-<button data-role="cta" style="">Get a quote</button>
+<button data-role="cta" style="">Call today for a Quote</button>
