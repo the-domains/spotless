@@ -7,8 +7,8 @@ description: >-
   Communication with our clients makes our relationships stronger. Through
   software like, Cleantelligent, we bring mobility, innovations and efficiency
   to your facility.  
-dateModified: '2017-07-13T22:37:17.246Z'
-datePublished: '2017-07-13T22:37:18.029Z'
+dateModified: '2017-07-13T22:42:13.426Z'
+datePublished: '2017-07-13T22:42:14.810Z'
 title: Inspections and Evaluations
 author: []
 publisher: {}
