@@ -22,7 +22,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-title: Expert Cleaning Services
+title: Commerical Cleaning Services
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -56,3 +56,4 @@ purpose:
   - type: email
     label: Email us
     url: 'mailto:info@spotlessofutah.com'
+url: 'https://utahsjanitorialservice.com'
