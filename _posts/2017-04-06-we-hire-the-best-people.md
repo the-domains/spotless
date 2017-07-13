@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-13T22:37:17.246Z'
-datePublished: '2017-07-13T22:37:18.030Z'
+dateModified: '2017-07-13T22:42:13.426Z'
+datePublished: '2017-07-13T22:42:14.808Z'
 title: WE HIRE THE BEST PEOPLE
 author: []
 publisher: {}
