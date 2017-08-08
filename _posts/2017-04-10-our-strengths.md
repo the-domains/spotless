@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-08T00:35:00.447Z'
-datePublished: '2017-08-08T00:35:00.814Z'
-title: Our Strengths
+dateModified: '2017-08-08T00:37:27.819Z'
+datePublished: '2017-08-08T00:37:28.229Z'
+title: 'Our Strengths, Your reward'
 author: []
 publisher: {}
 via: {}
@@ -13,9 +13,9 @@ datePublishedOriginal: '2017-04-10T02:51:31.977Z'
 _type: Blurb
 
 ---
-# **Our Strengths**
+# **Our Strengths, Your reward**
 
 * **Single Source provider**
 * **Increased efficiencies with Metrics and trends**
-* **Stringent hiring & selection process - We don't just hire anyone. **
+* **Stringent hiring & selection process - We don't just hire anyone.**
 * **Reliability**
