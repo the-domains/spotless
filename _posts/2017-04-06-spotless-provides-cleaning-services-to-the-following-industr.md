@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-08T00:07:56.628Z'
-datePublished: '2017-08-08T00:07:57.057Z'
+dateModified: '2017-08-08T00:08:46.273Z'
+datePublished: '2017-08-08T00:08:47.259Z'
 title: 'SPOTLESS PROVIDES CLEANING SERVICES TO THE FOLLOWING INDUSTRIES:'
 author: []
 publisher: {}
