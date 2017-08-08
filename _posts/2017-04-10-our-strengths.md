@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-08T00:07:56.628Z'
-datePublished: '2017-08-08T00:07:57.075Z'
+dateModified: '2017-08-08T00:08:46.273Z'
+datePublished: '2017-08-08T00:08:47.190Z'
 title: Our Strengths
 author: []
 publisher: {}
