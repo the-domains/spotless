@@ -27,10 +27,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Contact us
-    id: 81a506c3-5257-43ab-8c1d-aedae8b71469
-    type: content
 title: Commercial Cleaning Services
 content: []
 description: >-
