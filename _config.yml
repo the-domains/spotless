@@ -14,7 +14,7 @@ github: true
 layout_spectrum: 0.42908220320303764
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/740ffe38-6bf5-430f-a7de-78e510157456.png
-name: SPOLTLESS OF UTAH - 435.881.9189
+name: SPOLTLESS OF UTAH
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -25,8 +25,8 @@ colors:
 title: Commercial Cleaning Services
 content: []
 description: >-
-  Providing Expert Office Cleaning in your local area - Logan Ut, Brigham City
-  Ut, and Ogden Ut
+  Providing Expert Office Cleaning in your local area - Logan, Brigham City, and
+  Ogden Utah
 purpose:
   - type: contact
     url: 'tel:4358819189'
