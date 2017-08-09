@@ -12,9 +12,14 @@ color:
     - '#00AAD5'
 github: true
 layout_spectrum: 0.42908220320303764
+author:
+  name: Spotles
+  email: info@spotlessofutah.com
+  url: 'https://www.spotlessofutah.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/740ffe38-6bf5-430f-a7de-78e510157456.png
 name: SPOLTLESS OF UTAH
+url: 'https://utahsjanitorialservice.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -22,6 +27,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: Contact us
+    id: 81a506c3-5257-43ab-8c1d-aedae8b71469
+    type: content
 title: Commercial Cleaning Services
 content: []
 description: >-
@@ -34,8 +43,3 @@ purpose:
   - type: email
     label: Email us
     url: 'mailto:info@spotlessofutah.com'
-url: 'https://utahsjanitorialservice.com'
-author:
-  name: Spotles
-  email: info@spotlessofutah.com
-  url: 'https://www.spotlessofutah.com'
