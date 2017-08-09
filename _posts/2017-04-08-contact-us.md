@@ -5,17 +5,18 @@ description: >-
   janitorial services and what we could do to "wow" your company. We look
   forward to discussing how we can work together and will respond as soon as
   possible.
-dateModified: '2017-08-09T22:49:28.566Z'
-datePublished: '2017-08-09T22:49:49.276Z'
+dateModified: '2017-08-09T22:55:21.117Z'
+datePublished: '2017-08-09T22:55:21.941Z'
 title: CONTACT US
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-08-contact-us.md
-hasPage: false
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-09T22:49:49.276Z'
-_type: Blurb
+url: contact-us/index.html
+_type: Article
 
 ---
 ## CONTACT US
