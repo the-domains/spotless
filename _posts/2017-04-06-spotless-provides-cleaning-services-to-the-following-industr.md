@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-08T00:38:44.861Z'
-datePublished: '2017-08-08T00:38:46.126Z'
+dateModified: '2017-08-11T18:40:57.422Z'
+datePublished: '2017-08-11T18:40:57.788Z'
 title: 'SPOTLESS PROVIDES CLEANING SERVICES TO THE FOLLOWING INDUSTRIES:'
 author: []
 publisher: {}
@@ -30,3 +30,6 @@ _type: Blurb
 * MEDICAL OFFICES
 * MANUFACTURING OFFICES
 * REAL ESTATE
+[Learn more][0]
+
+[0]: http://www.spotlessofutah.com/request-free-estimate.php
