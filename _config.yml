@@ -36,6 +36,6 @@ purpose:
   - type: contact
     url: 'tel:4358819189'
     label: Call 435.881.9189
-  - type: email
-    label: Schedule a Quote
-    url: 'mailto:info@spotlessofutah.com'
+  - type: external
+    label: Get a Quote
+    url: 'https://www.spotlessofutah.com/quote/'
