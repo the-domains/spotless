@@ -28,6 +28,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Quote
+    url: 'https://www.spotlessofutah.com/quote/'
+    type: external
   - name: About us
     url: 'https://www.spotlessofutah.com/about-us/'
     type: external
@@ -39,9 +42,6 @@ navigation:
     type: external
   - name: Blog
     url: 'https://www.spotlessofutah.com/new-blog/'
-    type: external
-  - name: Quote
-    url: 'https://www.spotlessofutah.com/quote/'
     type: external
 title: Commercial Cleaning  and Janitorial Services
 content: []
