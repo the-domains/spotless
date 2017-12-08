@@ -5,8 +5,8 @@ description: >-
   the floor. It takes exceptional people, a concern for the environment, and a
   passion for new technologies to bring our cleaning to a new level.
 author: []
-datePublished: '2017-12-08T02:23:19.795Z'
-dateModified: '2017-12-08T02:23:18.828Z'
+datePublished: '2017-12-08T02:23:58.216Z'
+dateModified: '2017-12-08T02:23:57.740Z'
 title: SPOLTESS OF UTAH CLEANING SERVICES
 publisher: {}
 via: {}
@@ -19,8 +19,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30fba73f-aa8f-4cbb-b226-edf8fb3b469b.png)
-
 ### SPOLTESS OF UTAH CLEANING SERVICES
 
 At Spotless we work to understand your needs and wants in a cleaning service provider. A valued commercial cleaning service extends past the mop hitting the floor. It takes exceptional people, a concern for the environment, and a passion for new technologies to bring our cleaning to a new level.
