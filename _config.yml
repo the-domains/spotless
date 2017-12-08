@@ -36,3 +36,6 @@ purpose:
   - type: external
     label: Get a Quote
     url: 'https://www.spotlessofutah.com/quote/'
+  - type: external
+    url: 'https://www.spotlessofutah.com/cleaningservices/'
+    label: Our Services
