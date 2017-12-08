@@ -31,6 +31,9 @@ navigation:
   - name: About us
     url: 'https://www.spotlessofutah.com/about-us/'
     type: external
+  - name: Blog
+    url: 'https://www.spotlessofutah.com/new-blog/'
+    type: external
 title: Commercial Cleaning  and Janitorial Services
 content: []
 description: >-
