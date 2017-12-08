@@ -40,6 +40,9 @@ navigation:
   - name: Blog
     url: 'https://www.spotlessofutah.com/new-blog/'
     type: external
+  - name: Quote
+    url: 'https://www.spotlessofutah.com/quote/'
+    type: external
 title: Commercial Cleaning  and Janitorial Services
 content: []
 description: >-
