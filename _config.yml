@@ -33,9 +33,6 @@ description: >-
   Providing expert janitorial services in a local Utah area near you - Logan,
   Brigham City, and Ogden
 purpose:
-  - type: contact
-    url: 'tel:4358819189'
-    label: Call 435.881.9189
   - type: external
     label: Get a Quote
     url: 'https://www.spotlessofutah.com/quote/'
