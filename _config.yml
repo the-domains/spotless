@@ -18,7 +18,7 @@ author:
   url: 'http://www.spotlessofutah.com/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/740ffe38-6bf5-430f-a7de-78e510157456.png
-name: (435) 881-9189
+name: Spotless of Utah
 url: 'https://utahsjanitorialservice.com'
 colors:
   brandColors:
@@ -31,14 +31,14 @@ navigation:
   - name: About us
     url: 'https://www.spotlessofutah.com/about-us/'
     type: external
-  - name: Blog
-    url: 'https://www.spotlessofutah.com/new-blog/'
-    type: external
   - name: Contact us
     url: 'https://www.spotlessofutah.com/contact-us/'
     type: external
   - name: Jobs
     url: 'https://www.spotlessofutah.com/new-page/'
+    type: external
+  - name: Blog
+    url: 'https://www.spotlessofutah.com/new-blog/'
     type: external
 title: Commercial Cleaning  and Janitorial Services
 content: []
