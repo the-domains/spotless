@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-12-08T02:22:38.637Z'
-datePublished: '2017-12-08T02:22:38.827Z'
+dateModified: '2017-12-08T02:30:51.105Z'
+datePublished: '2017-12-08T02:30:51.577Z'
 title: 'Our Strengths, Your reward'
 author: []
 publisher: {}
