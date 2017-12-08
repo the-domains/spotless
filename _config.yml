@@ -37,6 +37,9 @@ navigation:
   - name: Contact us
     url: 'https://www.spotlessofutah.com/contact-us/'
     type: external
+  - name: Jobs
+    url: 'https://www.spotlessofutah.com/new-page/'
+    type: external
 title: Commercial Cleaning  and Janitorial Services
 content: []
 description: >-
