@@ -18,7 +18,7 @@ author:
   url: 'http://www.spotlessofutah.com/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/740ffe38-6bf5-430f-a7de-78e510157456.png
-name: SPOLTLESS OF UTAH
+name: (435) 881-9189
 url: 'https://utahsjanitorialservice.com'
 colors:
   brandColors:
@@ -27,6 +27,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: About us
+    url: 'https://www.spotlessofutah.com/about-us/'
+    type: external
 title: Commercial Cleaning  and Janitorial Services
 content: []
 description: >-
